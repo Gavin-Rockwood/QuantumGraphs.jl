@@ -1,4 +1,4 @@
-name = "QuantumGraphs"
+name = "QuantumGraphs.jl"
 uuid = "4872dfc6-05e2-49b0-9126-c2c3149bf648"
 authors = ["Gavin <gavin.rockwood@gmail.com> and contributors"]
 version = "1.0.0-DEV"
